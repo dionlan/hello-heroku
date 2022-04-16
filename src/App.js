@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World Build to Heroku.
+          Hello World Build to Heroku com alteração.
         </p>
         <a
           className="App-link"
